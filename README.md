@@ -1,2 +1,2 @@
-## Created by Fariza Rashid.
+## Phishing URL detection generalisation using Unsupervised Domain Adaptation
 Repository for our paper Phishing URL detection generalisation using Unsupervised Domain Adaptation https://www.sciencedirect.com/science/article/pii/S1389128624002305
